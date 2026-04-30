@@ -33,3 +33,8 @@ console.log(name);
 console.log(age);
 console.log(isDeveloper);
 console.log(hascar);
+
+
+//changing variable value
+name="Shasank Acharya"
+console.log(name);
