@@ -43,7 +43,7 @@ fun1();
  */
 
 
-
+//passing value in function
 /* let info=(name,surname,ward) => {
     console.log(name,surname,ward);
 
