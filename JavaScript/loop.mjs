@@ -42,3 +42,24 @@ fun1();
 
  */
 
+
+
+/* let info=(name,surname,ward) => {
+    console.log(name,surname,ward);
+
+};
+//info("shasank","acharya",5);
+//info("kamal","rokaya",6); 
+info("shasanka");
+ */
+
+
+
+
+let info = (name ="shasank",surname="acharya",ward=5) => {
+    console.log(name,surname,ward);
+};
+info("shasank","acharya",5);
+info("kamal","rokaya",6); 
+info("shasanka");
+
