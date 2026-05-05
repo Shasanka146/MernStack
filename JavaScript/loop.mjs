@@ -82,3 +82,36 @@ console.log(i);
 
 
 
+/* make a function named canvote
+pass one input,
+if the input is equalor greater then 18 return can vote 
+else return cannot vote */
+
+
+/* let canVote =(i1) => {
+    if (i1 >= 18)
+        return "can vote";
+    else
+        return"cannot vote";
+};
+let _canVote = canVote(10);
+console.log(_canVote); */
+
+
+/* make a function name prepo
+it takes one input
+if input is male -> return he
+if input is female -> return she
+else return they */
+
+/* 
+let prepo = (i2) => {
+    if (i2 ==="male")
+        return "he";
+    else if (i2 ==="female")
+        return "she";
+    else
+        return "they";
+};
+let _prepo = prepo("bibek");
+console.log(_prepo); */
