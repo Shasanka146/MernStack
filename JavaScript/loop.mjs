@@ -13,7 +13,7 @@ else
 
 
 //print he for male ,she for female and they for other   
-let gender='other';
+/* let gender='other';
 
 if(gender==="male")
 {
@@ -26,4 +26,19 @@ else if(gender==="female")
 }
 else{
     console.log("they");
-}
+} */
+
+
+
+
+//define arrow function
+/* let fun1=()=>{
+    console.log("this is an arrow function");
+};
+console.log("a");
+fun1;//this is not right way to call function
+console.log("b");
+fun1();
+
+ */
+
