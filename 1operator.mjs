@@ -35,6 +35,6 @@ console.log(3 !== 3); // false
 /*
 // && (AND), || (OR), ! (NOT)
 console.log(!true); // false
-console.log(true && false); // false
-console.log(true || false); // true
+console.log(true && false); // false(output is true if all are true)
+console.log(true || false); // (output is true if any one is true)
 */
