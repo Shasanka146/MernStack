@@ -56,10 +56,29 @@ info("shasanka");
 
 
 
-let info = (name ="shasank",surname="acharya",ward=5) => {
+/* let info = (name ="shasank",surname="acharya",ward=5) => {
     console.log(name,surname,ward);
 };
 info("shasank","acharya",5);
 info("kamal","rokaya",6); 
 info("shasanka");
+ */
+
+
+
+//returntype 
+//function without return
+//func()
+//function with return
+/* let info = () => {
+    console.log("A");
+    return "b";
+    console.log("C");
+};
+let i=info();
+console.log(i);
+ */
+
+
+
 
