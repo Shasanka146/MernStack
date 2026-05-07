@@ -77,8 +77,8 @@ info("shasanka");
 };
 let i=info();
 console.log(i);
- */
 
+ */
 
 
 
