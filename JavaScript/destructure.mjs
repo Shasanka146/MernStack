@@ -10,7 +10,12 @@ console.log(c);//12
  */
 
 //object destructuring
-let {name,weight,isMarried} ={ name:"shasanka",weight:55,isMarried:true};
+//in object order doesnot matter
+/* let {name,weight,isMarried} ={ name:"shasanka",weight:55,isMarried:true};
 console.log(name);//shasanka
 console.log(weight);//55
 console.log(isMarried);//true   
+ */
+
+
+
